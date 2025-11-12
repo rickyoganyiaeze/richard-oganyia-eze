@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-protected",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "html-minifier index.html -o dist/index.html && uglifyjs dist/index.html -o dist/index.min.js"
+  },
+  "devDependencies": {
+    "html-minifier": "^4.0.0",
+    "uglify-js": "^3.17.4"
+  }
+}
