@@ -1,1 +1,11 @@
+# Google AdSense
+google.com, 
+pub-1280676879896534, DIRECT, f08c47fec0942fa0
 
+# Taboola (Example)
+taboola.com, 
+pub-1280676879896534, DIRECT
+
+# Outbrain (Example)
+outbrain.com, 
+pub-1280676879896534, DIRECT
